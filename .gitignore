@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+review_analysis/
+汇报材料/
+reports/
+*.docx
+*.pdf
