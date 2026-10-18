@@ -1,0 +1,25 @@
+{
+  "reviewed": true,
+  "confirmed": [
+    {
+      "student": "学生A",
+      "student_id": "20250001",
+      "category": "emotion",
+      "summary": "长期情绪低落，出现绝望表述",
+      "label": "绝望",
+      "quote": "那段时间我每天都很绝望",
+      "context_type": "personal_current",
+      "severity": "medium",
+      "occurrences": 1,
+      "source_file": "学生A20250001.docx"
+    }
+  ],
+  "excluded": [
+    {
+      "student": "学生B",
+      "term": "崩溃",
+      "reason": "军训很累，属于夸张表达，不是持续情绪危机",
+      "context_type": "figurative"
+    }
+  ]
+}
