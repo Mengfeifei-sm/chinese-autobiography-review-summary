@@ -1,0 +1,10 @@
+{
+  "class_name": "示例班",
+  "total_students": null,
+  "warning_count": null,
+  "missing_pages_count": null,
+  "completed_count": null,
+  "warning": [],
+  "missing_pages": [],
+  "count_note": "只填写老师明确提供的人数或名单；没有提供就保留 null，不要套用其他班级数字。"
+}
